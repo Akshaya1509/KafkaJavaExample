@@ -1,0 +1,40 @@
+Message consumed from topic[second_topic] : 50
+
+Message consumed from topic[second_topic] : 5
+
+Message consumed from topic[second_topic] : 4
+
+Message consumed from topic[second_topic] : 42
+
+Message consumed from topic[second_topic] : 35
+
+Message consumed from topic[second_topic] : 26
+
+Message consumed from topic[second_topic] : 48
+
+Message consumed from topic[second_topic] : 44
+
+Message consumed from topic[second_topic] : 50
+
+Message consumed from topic[second_topic] : 33
+
+Message consumed from topic[second_topic] : 33
+
+Message consumed from topic[second_topic] : 7
+
+Message consumed from topic[second_topic] : 8
+
+Message consumed from topic[second_topic] : 20
+
+Message consumed from topic[second_topic] : 25
+
+Message consumed from topic[second_topic] : 14
+
+Message consumed from topic[second_topic] : 48
+
+Message consumed from topic[second_topic] : 33
+
+Message consumed from topic[second_topic] : 39
+
+Message consumed from topic[second_topic] : 42
+
